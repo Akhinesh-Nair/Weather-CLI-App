@@ -75,7 +75,7 @@ Weather-CLI-App/
 1. Clone the repository.
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_LINK>
+git clone https://github.com/Akhinesh-Nair/Weather-CLI-App.git
 ```
 
 2. Open the project folder.
